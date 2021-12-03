@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <GifGrid /> should display items when images page are uploaded 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    Rick and Morty
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="abc"
+      key="abc"
+      title="Anything"
+      url="https://localhost/anything/thing.jpg"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Test in <GifGrid /> should display items when images(more images) page are uploaded 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    Rick and Morty
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="foo"
+      key="foo"
+      title="Anything"
+      url="https://localhost/anything/thing.jpg"
+    />
+    <GifGridItem
+      id="bar"
+      key="bar"
+      title="Bar"
+      url="https://localhost/anything/bar.jpg"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Test in <GifGrid /> should return a snapshots 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    Rick and Morty
+  </h3>
+  <p
+    className="animate__animated animate__fadeIn"
+  >
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;

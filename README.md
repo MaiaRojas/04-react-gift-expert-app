@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# APRENDER A CREAR UNA APP WITH REACT (INCLUDE TEST)
+## Temas puntuales de la sección
+¿Qué veremos en esta sección?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Custom Hooks
 
-## Available Scripts
+* Fetch hacia un API
 
-In the project directory, you can run:
+* Comunicación entre componentes
 
-### `yarn start`
+* Clases de CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Animaciones
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Enviar métodos como argumentos
 
-### `yarn test`
+* Crear listados
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* keys
 
-### `yarn build`
+* Giphy
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar
+React + customHooks para poder resolver necesidades en específico que podremos
+re-utilizar después.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Temas puntuales de la sección
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*¿Qué veremos en esta sección?*
 
-### `yarn eject`
+* Aprender cómo realizar backups a repositorios de Git
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Subir nuestro repositorio a GitHub
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Uso de Github Pages
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Desplegar nuestra aplicación de React
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Generar build de producción de nuestra aplicación
 
-## Learn More
+Aunque es una sección pequeña, les puede servir para desplegar infinidad de
+proyectos de React de forma gratuita, sin contar que tendrán respaldos de sus
+proyectos por si llegan a perder su trabajo que tenían localmente en su computadora.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ¿Qué veremos en esta sección?
 
-### Code Splitting
+* Seguir el camino de las pruebas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Pruebas en componentes específicos
 
-### Analyzing the Bundle Size
+* Pruebas en componentes de forma individual
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Pruebas con customHooks
 
-### Making a Progressive Web App
+* Esperar cambios en un customHook
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Simular eventos en inputs y formularios
 
-### Advanced Configuration
+* Simular llamadas a funciones
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Evaluar si existen elementos en el componente
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+En esta sección seguiremos expandiendo todo lo que habíamos visto anteriormente
+en otras secciones de pruebas, pero ahora veremos más a detalle los temas y
+adicionalmente introduciremos nuevos conceptos y nuevos tipos de pruebas.

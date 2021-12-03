@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <GifExpertApp /> should be displayed correctly 1`] = `
+<Fragment>
+  <h2>
+    GifExpertApp
+  </h2>
+  <hr />
+  <AddCategory
+    categories={Array []}
+    setCategories={[Function]}
+  />
+  <ol />
+</Fragment>
+`;
